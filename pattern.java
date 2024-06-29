@@ -1,5 +1,5 @@
 import java.util.*;
-class star
+class pattern
 {
 	public static void main(String arg[])
 {
@@ -9,7 +9,7 @@ class star
 	{
 	for(j=0;j<=i;j++)
 	{
-	System.out.print(" *");
+	System.out.print(i);
 	}
 	System.out.println();
 }

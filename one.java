@@ -1,5 +1,5 @@
 import java.util.*;
-class star
+class one
 {
 	public static void main(String arg[])
 {
@@ -9,7 +9,7 @@ class star
 	{
 	for(j=0;j<=i;j++)
 	{
-	System.out.print(" *");
+	System.out.print("1");
 	}
 	System.out.println();
 }
